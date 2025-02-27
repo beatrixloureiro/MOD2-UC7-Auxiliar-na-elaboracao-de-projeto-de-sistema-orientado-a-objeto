@@ -1,0 +1,37 @@
+Atividade 3
+
+Uma empresa de software encontra-se em uma competição para fornecer seu sistema a uma extensa rede de supermercados em nível nacional. Nesse contexto, não é suficiente que o sistema esteja apenas testado e funcional; é essencial que ele adote as diretrizes de código enxuto (lean code) e evite indícios de código problemático (code smells). Como parte desse desafio, sua responsabilidade inclui a análise e refatoração do código desenvolvido por outros membros da equipe, alinhando-o aos princípios exigidos para garantir a eficiência e qualidade do produto.
+
+Atividade
+
+Baixe e extrai-a o conteúdo da seguinte pasta compactada:
+
+    Projeto_Relatorio.zip 
+
+Nela, você irá encontrar um projeto NetBeans que deve ser aberto dentro da IDE. Analise o projeto com bastante calma e atenção pois você deverá propor melhorias no código, refatorando o projeto e documentando essas mudanças. Para isso, a equipe de qualidade desenvolveu um modelo de relatório para você seguir. Esse modelo encontra-se dentro da pasta compactada também.
+
+No relatório, você deve destacar os trechos de código problemáticos, apresentar suas sugestões para aprimoramento e fornecer justificativas claras sobre a necessidade desses ajustes. Para facilitar o processo, a equipe de testes já identificou alguns trechos de código que requerem correção, e também incluiu um exemplo completo para servir como referência.
+
+Você deve propor melhorias e justificativas para todos eles sem que o projeto deixe de funcionar. Então, certifique-se de realizar as alterações no código do projeto, testar e garantir que esteja tudo funcionando antes de documentar esses ajustes no seu relatório.
+
+Caso encontre qualquer outro trecho problemático no projeto, que não tenha sido mencionado no relatório, inclua-o juntamente com suas sugestões de melhoria e justificativas no mesmo documento.
+
+Entrega
+
+No espaço dedicado à entrega da atividade, envie o arquivo compactado (ZIP, RAR ou 7z) contendo o projeto NetBeans refatorado e o modelo de relatório preenchido.
+
+Dica de leitura
+
+Para esta atividade, leia os seguintes materiais:
+
+    Refatoração de código: técnicas, boas práticas, code smells
+
+    Lean code: princípios e aplicabilidade
+
+Avaliação
+
+Nesta atividade, você será avaliado no seguinte indicador:
+
+    Desenvolve, sob supervisão, projeto de sistemas de acordo com padrões de metodologias ágeis.
+
+    Realiza refatoração de código de acordo com princípios de projeto e requisitos do sistema.

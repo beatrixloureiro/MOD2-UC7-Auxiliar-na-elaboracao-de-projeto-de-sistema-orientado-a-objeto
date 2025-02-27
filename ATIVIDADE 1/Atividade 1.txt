@@ -1,0 +1,41 @@
+Atividade 1
+
+Contexto
+
+A sua empresa aceitou uma licitação da prefeitura da cidade para construir um sistema de compra de passagens de trem e ônibus de viagens. A ideia é modernizar os processos, evitar atrasos e também permitir que os usuários possam ver horários, assentos e disponibilidades.
+
+Com isso em mente, seus gestores solicitaram que você construa três tipos de diagramas UML diferentes para mostrar para a equipe de desenvolvimento o escopo do projeto. Facilitando o início do projeto de maneira mais visual. O analista trouxe para você os requisitos para cada um dos diagramas.
+
+Atividade
+
+Com base no contexto e na especificação inicial que foi levantada para o sistema, crie os seguintes diagramas UML a partir das definições descritas:
+
+    Diagrama de Caso de Uso: O sistema contará com dois atores, o Cliente e o Sistema de Passagens.
+
+        Cliente: O cliente é o nosso usuário, ele terá como atividades principais no sistema: Checar a disponibilidade das passagens, efetuar pagamento, reservar passagem, preencher informações pessoais e Cancelar Passagem.
+
+        Sistema: Assim como o cliente o sistema poderá efetuar as mesmas atividades, porém contará com uma a mais que é a de Reembolsar Dinheiro.
+
+    Diagrama de Classe: O cliente terá seus dados pessoais além de poder executar as funções com o sistema. O sistema irá retornar determinadas mensagens sobre as passagens e pagamento para o usuário.
+
+    Diagrama de Atividade: O analista gostaria que neste diagrama de atividade fosse simulado a compra de uma passagem, isto é, envolverá a escolha do meio de transporte (ônibus ou trem), o horário, o valor e o pagamento (se foi aceito ou não).
+
+Dica: Não esqueça dos <<includes>> nos Casos de Uso;
+
+Dica: Nos diagramas de classe resuma os métodos gets e sets dessa forma gets e sets() sem precisar citar um por um.
+
+Entrega
+
+No espaço dedicado a entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) com os diagramas criados, os quais devem estar em formato de imagens (JPEG, PNG, TIF).
+
+Dica de leitura
+
+Para esta atividade, leia o seguinte material:
+
+    UML: conceitos, diagramas de classes, diagramas de pacotes, diagramas de casos de uso, diagramas de sequência, diagramas de atividades
+
+Avaliação
+
+Nesta atividade, você será avaliado no seguinte indicador:
+
+    Representa sistema com diagramas UML de acordo com ferramentas da linguagem e definições do projeto de software.
